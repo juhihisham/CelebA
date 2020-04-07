@@ -15,6 +15,7 @@ Install the following packages:-
 Image matting on CelebA dataset images
 The data set is availabe at: http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 The Foreground extraction is done on a single image from the dataset using K means clustering.
+real.txt contains the positions of the facial attributes.
 Prequisites:
 Install the following packages:-
 * numpy
